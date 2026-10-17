@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/icon.png" width="120" alt="Dr Nano Deutsch icon: an orange owl with glasses and a stethoscope">
+  <img src="docs/icon.png" width="120" alt="Dr Nano Deutsch icon: an orange owl with glasses and a stethoscope">
 </p>
 
 <h1 align="center">Dr Nano Deutsch</h1>
@@ -20,11 +20,14 @@
   <img alt="Android" src="https://img.shields.io/badge/Android-7.0%2B-1E8F57">
 </p>
 
+<p align="center"><img src="screenshots/en/en-cover.png" width="100%" alt="Dr Nano Deutsch: home screen, story screen and dark mode"></p>
+
 ---
 
 ## Contents
 
 - [What's inside](#whats-inside)
+- [Screenshots](#screenshots)
 - [Content](#content)
 - [Installation](#installation)
 - [Web version (GitHub Pages)](#web-version-github-pages)
@@ -69,6 +72,13 @@ Weak words come up more often, while recently practised words are pushed back, s
 **🔥 Motivation.** A daily XP goal, a day streak and a weekly calendar.
 
 **📴 Offline.** No internet needed. Fonts and all content are bundled with the app.
+
+## Screenshots
+
+<table>
+<tr><td align="center"><b>Home</b><br><img src="screenshots/en/en-home.png" width="230" alt="Home"></td><td align="center"><b>Story & pronunciation</b><br><img src="screenshots/en/en-story.png" width="230" alt="Story & pronunciation"></td><td align="center"><b>Lesson</b><br><img src="screenshots/en/en-lesson.png" width="230" alt="Lesson"></td></tr>
+<tr><td align="center"><b>Article Hunt</b><br><img src="screenshots/en/en-game.png" width="230" alt="Article Hunt"></td><td align="center"><b>Levels</b><br><img src="screenshots/en/en-levels.png" width="230" alt="Levels"></td><td align="center"><b>Dark mode</b><br><img src="screenshots/en/en-dark-mode.png" width="230" alt="Dark mode"></td></tr>
+</table>
 
 ## Content
 

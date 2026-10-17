@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/icon.png" width="120" alt="Dr Nano Deutsch simgesi: gözlüklü, stetoskoplu turuncu baykuş">
+  <img src="docs/icon.png" width="120" alt="Dr Nano Deutsch simgesi: gözlüklü, stetoskoplu turuncu baykuş">
 </p>
 
 <h1 align="center">Dr Nano Deutsch</h1>
@@ -20,11 +20,14 @@
   <img alt="Android" src="https://img.shields.io/badge/Android-7.0%2B-1E8F57">
 </p>
 
+<p align="center"><img src="screenshots/tr/tr-kapak.png" width="100%" alt="Dr Nano Deutsch: ana sayfa, hikaye ekranı ve karanlık tema"></p>
+
 ---
 
 ## İçindekiler
 
 - [Neler var?](#neler-var)
+- [Ekran görüntüleri](#ekran-görüntüleri)
 - [İçerik](#içerik)
 - [Kurulum](#kurulum)
 - [Web sürümü (GitHub Pages)](#web-sürümü-github-pages)
@@ -69,6 +72,13 @@ Zayıf kelimeler oyunlarda daha sık çıkar. Yakın zamanda çalışılan kelim
 **🔥 Motivasyon.** Günlük XP hedefi, gün serisi ve haftalık takvim.
 
 **📴 Çevrimdışı.** İnternet gerekmez. Fontlar ve tüm içerik uygulamanın içinde.
+
+## Ekran görüntüleri
+
+<table>
+<tr><td align="center"><b>Ana sayfa</b><br><img src="screenshots/tr/tr-ana-sayfa.png" width="230" alt="Ana sayfa"></td><td align="center"><b>Hikaye ve okunuş</b><br><img src="screenshots/tr/tr-hikaye.png" width="230" alt="Hikaye ve okunuş"></td><td align="center"><b>Ders</b><br><img src="screenshots/tr/tr-ders.png" width="230" alt="Ders"></td></tr>
+<tr><td align="center"><b>Artikel Avı</b><br><img src="screenshots/tr/tr-oyun.png" width="230" alt="Artikel Avı"></td><td align="center"><b>Seviyeler</b><br><img src="screenshots/tr/tr-seviyeler.png" width="230" alt="Seviyeler"></td><td align="center"><b>Karanlık tema</b><br><img src="screenshots/tr/tr-karanlik-tema.png" width="230" alt="Karanlık tema"></td></tr>
+</table>
 
 ## İçerik
 

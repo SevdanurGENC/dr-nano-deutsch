@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/icon.png" width="120" alt="Dr-Nano-Deutsch-Symbol: eine orangefarbene Eule mit Brille und Stethoskop">
+  <img src="docs/icon.png" width="120" alt="Dr-Nano-Deutsch-Symbol: eine orangefarbene Eule mit Brille und Stethoskop">
 </p>
 
 <h1 align="center">Dr Nano Deutsch</h1>
@@ -20,11 +20,14 @@
   <img alt="Android" src="https://img.shields.io/badge/Android-7.0%2B-1E8F57">
 </p>
 
+<p align="center"><img src="screenshots/en/en-cover.png" width="100%" alt="Dr Nano Deutsch: Startbildschirm, Geschichte und dunkles Design"></p>
+
 ---
 
 ## Inhalt
 
 - [Was steckt drin?](#was-steckt-drin)
+- [Bildschirmfotos](#bildschirmfotos)
 - [Inhalte](#inhalte)
 - [Installation](#installation)
 - [Web-Version (GitHub Pages)](#web-version-github-pages)
@@ -71,6 +74,15 @@ Schwache Wörter kommen häufiger dran, kürzlich geübte Wörter treten in den 
 **🔥 Motivation.** Tägliches XP-Ziel, Tagesserie und Wochenkalender.
 
 **📴 Offline.** Kein Internet nötig. Schriften und alle Inhalte sind in der App enthalten.
+
+## Bildschirmfotos
+
+Die Bilder zeigen die englische Oberfläche der App.
+
+<table>
+<tr><td align="center"><b>Startbildschirm</b><br><img src="screenshots/en/en-home.png" width="230" alt="Startbildschirm"></td><td align="center"><b>Geschichte und Aussprache</b><br><img src="screenshots/en/en-story.png" width="230" alt="Geschichte und Aussprache"></td><td align="center"><b>Lektion</b><br><img src="screenshots/en/en-lesson.png" width="230" alt="Lektion"></td></tr>
+<tr><td align="center"><b>Artikeljagd</b><br><img src="screenshots/en/en-game.png" width="230" alt="Artikeljagd"></td><td align="center"><b>Stufen</b><br><img src="screenshots/en/en-levels.png" width="230" alt="Stufen"></td><td align="center"><b>Dunkles Design</b><br><img src="screenshots/en/en-dark-mode.png" width="230" alt="Dunkles Design"></td></tr>
+</table>
 
 ## Inhalte
 
